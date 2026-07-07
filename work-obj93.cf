@@ -1,0 +1,28 @@
+v 4
+file . "ula.vhd" "971ffcd5ea26b8e934000f08f46d56ca7d33b23e" "20260705235849.695":
+  entity ula at 31( 1569) + 0 on 25;
+  architecture arch of ula at 44( 2090) + 0 on 26;
+file . "immgen.vhd" "80cb4a08319c1378e7a72fd110129ff3c5810a9f" "20260706010115.290":
+  entity immgen at 1( 0) + 0 on 43;
+  architecture arch of immgen at 13( 346) + 0 on 44;
+file . "regmemory.vhd" "2d4443709ea5785ff84d9a5587833fd54c894516" "20260706011424.393":
+  entity regmemory at 20( 1105) + 0 on 57;
+  architecture arch of regmemory at 40( 2128) + 0 on 58;
+file . "mux32.vhd" "b6a7947d8a5560ccff836a6906825e09b5f581f7" "20260705235606.422":
+  entity mux32 at 1( 0) + 0 on 13;
+  architecture arch of mux32 at 12( 213) + 0 on 14;
+file . "mux5.vhd" "4602e791531fda4a78a1215d96effdafdf72bc48" "20260705235600.151":
+  entity mux5 at 1( 0) + 0 on 11;
+  architecture arch of mux5 at 12( 209) + 0 on 12;
+file . "controle.vhd" "329b547ba9d5b8051191a9cdc5f3efb946b53ffa" "20260706010520.127":
+  entity controle at 55( 3206) + 0 on 51;
+  architecture arch of controle at 73( 4201) + 0 on 52;
+file . "ulaop.vhd" "e757129f82ed3f2486f9898bebca6e39e3ab1a86" "20260705235844.494":
+  entity ulaop at 25( 1184) + 0 on 23;
+  architecture arch of ulaop at 36( 1619) + 0 on 24;
+file . "design.vhd" "bbd9814c7ac251c274e40e570a4bf262ca3636d4" "20260706011426.158":
+  entity design at 33( 1881) + 0 on 59;
+  architecture arch of design at 44( 2174) + 0 on 60;
+file . "testbench.vhd" "0107c268f540b9a4a51cb286c260329b9d4acc54" "20260706011429.143":
+  entity testbench at 30( 1428) + 0 on 61;
+  architecture arch of testbench at 36( 1508) + 0 on 62;
